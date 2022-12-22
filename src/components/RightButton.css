@@ -1,0 +1,47 @@
+/* .right-button-box{
+    border: none;
+    outline: none;
+    padding: 6px;
+    border-radius: 5px;
+    background-color: red;
+    width: 150px;
+    height:130px;
+    text-align: center;
+}
+.right-shop-box{
+    height: 100vh;
+    width: 400px;
+    background-color: #fff;
+    position: fixed;
+    right: 0;
+    top: 0;
+    z-index: 1000;
+    transition: all .2s;
+}
+.button{
+    background-color:#fff;
+    color: red;
+    margin-top:50px;
+}
+
+.shop{
+    color: #fff;
+}
+
+.conty-button{
+width: 26px;
+background-color: lightslategray;
+height: 70px;
+border-radius: 20px;
+display: flex;
+flex-direction: column;
+justify-content: center;
+margin-left: 10px;
+font-weight: 700;
+}
+
+.icons1{
+    color: red;
+    font-size: 50px;
+    margin: 20px;
+} */
